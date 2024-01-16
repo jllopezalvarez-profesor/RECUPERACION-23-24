@@ -1,6 +1,6 @@
 package ejercicios.ejercicio12;
 
-public class Coche implements Vehiculo {
+public class Coche implements Vehiculo{
 	private int velocidad = 0;
 	int numPlazas;
 
@@ -30,5 +30,10 @@ public class Coche implements Vehiculo {
 	public int getNumPlazas() {
 		return this.numPlazas;
 	}
+
+//	@Override
+//	public int compareTo(Coche other) {
+//		return Integer.compare(this.velocidad, other.velocidad);
+//	}
 
 }

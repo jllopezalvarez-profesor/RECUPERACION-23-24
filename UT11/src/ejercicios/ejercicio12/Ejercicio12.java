@@ -1,5 +1,6 @@
 package ejercicios.ejercicio12;
 
+import java.util.Arrays;
 import java.util.Random;
 
 public class Ejercicio12 {
@@ -18,6 +19,8 @@ public class Ejercicio12 {
 				vehiculos[i] = new Moto();
 			}
 		}
+		
+		Arrays.sort(vehiculos);
 		
 		for(int i = 0; i < 3; i++) {
 			for (int j = 0; j < vehiculos.length; j++) {

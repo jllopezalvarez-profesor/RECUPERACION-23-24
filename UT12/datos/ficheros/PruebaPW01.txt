@@ -1,0 +1,20 @@
+|969923 | Van | Mertz | duck | 5,793803 |
+|181836 | Anthony | Howe | ant | 2,483616 |
+|663078 | Eloy | Swaniawski | water buffalo | 8,104316 |
+|615561 | Monroe | Bashirian | butterfly | 7,693994 |
+|658149 | Austin | Lehner | giraffe | 5,136777 |
+|366238 | Richie | Bins | walrus | 5,460366 |
+|193465 | Julian | Marquardt | reindeer | 4,015773 |
+|605502 | Vernie | Dicki | skunk | 2,854119 |
+|353798 | Tori | Klein | raccoon | 5,644002 |
+|772139 | Francesco | Wilderman | chinchilla | 3,285701 |
+|979327 | Lakisha | Dickens | giraffe | 9,070291 |
+|276076 | Ramon | Okuneva | leopard | 9,986884 |
+|279613 | Megan | Kessler | gnat | 8,094352 |
+|889125 | Etha | Stoltenberg | mosquito | 9,314583 |
+|628879 | Josefine | Connelly | lizard | 6,496410 |
+|436290 | Karol | Stamm | goose | 9,488393 |
+|602283 | Connie | Bernhard | bear | 1,033354 |
+|614915 | Robbie | Kirlin | turtle | 3,554518 |
+|114422 | Bess | Gerlach | cricket | 0,296247 |
+|316394 | Codi | Harvey | skunk | 2,817833 |
