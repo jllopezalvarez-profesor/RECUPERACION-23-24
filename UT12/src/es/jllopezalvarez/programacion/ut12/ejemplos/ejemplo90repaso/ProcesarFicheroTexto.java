@@ -67,6 +67,8 @@ public class ProcesarFicheroTexto {
 			// El fichero no existe
 		}
 
+		frecuencias.values()
+		
 		// Crear, si no existe, el directorio "datosSalida/pruebas" en el mismo
 		// directorio que el fichero
 		File directorioSalida = Path.of("FicherosPrueba", "datosSalida", "pruebas").toFile();
