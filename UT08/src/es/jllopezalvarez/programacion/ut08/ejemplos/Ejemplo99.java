@@ -3,6 +3,7 @@ package es.jllopezalvarez.programacion.ut08.ejemplos;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 public class Ejemplo99 {
@@ -29,7 +30,20 @@ public class Ejemplo99 {
 		alumnos.forEach(System.out::println);
 
 		
+		Collections.sort(alumnos, new AlumnoByFechaNacimientoComparator());
+		
 //		alumnos.sort(null);
+	}
+	
+	private static class AlumnoByFechaNacimientoComparator implements Comparator<Alumno>
+	{
+
+		@Override
+		public int compare(Alumno arg0, Alumno arg1) {
+			// TODO Auto-generated method stub
+			return 0;
+		}
+		
 	}
 
 }
