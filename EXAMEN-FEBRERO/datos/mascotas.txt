@@ -1,0 +1,50 @@
+83915
+Lola
+Juan Caldera Castañeda
+84
+6.57
+70622
+Lucy
+Leonor Medina Villarreal
+39
+5.72
+68653
+Nala
+Sra. José Luis Jáquez Alcala
+81
+1.11
+88895
+Buddy
+Clemente Ordóñez Ocasio
+12
+3.10
+68500
+Pepper
+Gregorio Borrego Cotto
+23
+3.10
+17536
+Pepper
+Margarita Alanis Fajardo
+101
+9.95
+50857
+Bella
+Adela Quintanilla Olmos
+42
+6.41
+99456
+Luna
+Gabriela Barela Alvarado
+83
+4.15
+56126
+Leo
+Sofia Carrillo Mascareñas
+54
+2.31
+25928
+Lola
+Gonzalo Berríos Porras
+71
+2.90
